@@ -4,6 +4,16 @@
 
 ###
 
+## What is 42?
+
+42 Lisboa is a coding school with no teachers, no lectures, and no fixed curriculum — students learn by working through project-based challenges and peer-to-peer collaboration, 24/7, in a self-directed environment. It's part of the 42 network founded in Paris backed by tech entrepreneur Xavier Niel, now spread across dozens of countries, and it's completely free to attend, funded entirely by the school itself rather than tuition. 
+
+Admission has nothing to do with diplomas or grades: candidates go through an intense selection process called the "Piscine" (a month-long, immersive coding bootcamp-style trial), and what matters is problem-solving ability and grit, not prior credentials. Data from 2025 indicates that **15000 candidates** tried to became a 42 student, **~600** succeeded. 
+
+The result is a kind of Silicon-Valley-meets-Ivy-League reputation for producing highly capable, self-taught engineers capable of solving real world problems without guidance — making it one of the most disruptive and talked-about alternatives to traditional computer science education in Europe right now.
+
+###
+
 | Project Name | Key Concepts | Grade | Languages/tech used |
 |:---:|:---:|:---:|:---:|
 | [**Libft**](https://github.com/sylvzzz/42-libft) | Custom C library using `malloc`, `free`, linked lists and pointers | 125 ✔️ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> |
