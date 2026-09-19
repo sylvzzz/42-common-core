@@ -6,7 +6,7 @@
 
 ## What is 42?
 
-42 Lisboa is a coding school with no teachers, no lectures, and no fixed curriculum — students learn by working through project-based challenges and peer-to-peer collaboration, 24/7, in a self-directed environment. It's part of the 42 network founded in Paris backed by tech entrepreneur Xavier Niel, now spread across dozens of countries, and it's completely free to attend, funded entirely by the school itself rather than tuition. 
+42 Lisboa is a coding school with no teachers and no lectures — students learn by working through project-based challenges and peer-to-peer collaboration, 24/7, in a self-directed environment. It's part of the 42 network founded in Paris backed by tech entrepreneur Xavier Niel, now spread across dozens of countries, and it's completely free to attend, funded by the school itself and partnerships rather than tuition. 
 
 Admission has nothing to do with diplomas or grades: candidates go through an intense selection process called the "Piscine" (a month-long, immersive coding bootcamp-style trial), and what matters is problem-solving ability and grit, not prior credentials. Data from 2025 indicates that **15000 candidates** tried to became a 42 student, **~600** succeeded. 
 
